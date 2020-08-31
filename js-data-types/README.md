@@ -3,7 +3,7 @@
 * [Command Line Power User](https://commandlinepoweruser.com/)
 * Test Your Skills
   * [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_variables)
-  * [Math](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_variables)
+  * [Math](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_math)
   * [Strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Strings)
   * [Object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_Object_basics)
 * Write instructions for how to make a peanut butter and jelly sandwich
