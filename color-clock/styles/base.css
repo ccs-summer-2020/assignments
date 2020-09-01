@@ -1,0 +1,97 @@
+.clock {
+  background: #8A8700;
+  width: 30rem;
+  height: 30rem;
+  margin: 50px auto;
+  color: #fff;
+  font-size: 4rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  position: relative;
+  overflow: hidden;
+}
+
+.clock-face {
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  height: 60%;
+  width: 60%;
+
+  position: relative;
+}
+
+.clock-progress-bar {
+  background-color: #fff;
+  height: .25rem;
+  width: 14rem;
+}
+
+.ripple {
+  height: 60%;
+  width: 60%;
+  position: absolute;
+  border-radius: 100%;
+
+  box-shadow: 0 0 20px 0 rgba(0,0,0,0.25);
+  animation: ripple 4s linear infinite;
+  opacity: 0;
+}
+
+.r2 {
+  animation-delay: 0.4s;
+}
+
+.r3 {
+  animation-delay: 0.8s;
+}
+
+.r4 {
+  animation-delay: 1.2s;
+}
+
+.r5 {
+  animation-delay: 1.6s;
+}
+
+.r6 {
+  animation-delay: 2s;
+}
+
+.r7 {
+  animation-delay: 2.4s;
+}
+
+.r8 {
+  animation-delay: 2.8s;
+}
+
+.r9 {
+  animation-delay: 3.2s;
+}
+
+.r10 {
+  animation-delay: 3.6s;
+}
+
+.r11 {
+  animation-delay: 4s;
+}
+
+@keyframes ripple {
+  from {
+    opacity: 0;
+    transform: scale3d(.8,.8,1);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale3d(2.3,2.3,1);
+  }
+}
