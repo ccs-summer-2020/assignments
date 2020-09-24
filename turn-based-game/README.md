@@ -1,4 +1,4 @@
-# 4.3.1 Turn Based Game
+# Turn Based Game
 
 ## Objectives
 
