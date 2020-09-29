@@ -74,17 +74,16 @@ Using the tools you've learned in class, create a responsive image board that al
 
 **MOBILE**
 
-<img src="/blob/master/mobile.png" />
-
+<img src="https://github.com/ccs-summer-2020/assignments/blob/master/react-image-board/mobile.png" />
 
 **DESKTOP**
 
-<img src="/blob/master/desktop.png" />
+<img src="https://github.com/ccs-summer-2020/assignments/blob/master/react-image-board/desktop.png" />
 
 
 **ADD IMAGE FORM**
 
-<img src="https://github.com/ccs-student-submissions/7.3-react_image_board/blob/master/add.png" />
+<img src="https://github.com/ccs-summer-2020/assignments/blob/master/react-image-board/add.png" />
 
 
 ## Hey Mikey, I Think He Likes It Mode
