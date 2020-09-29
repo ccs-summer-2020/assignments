@@ -34,7 +34,7 @@ After completing this assignment, you be able to effectively use...
 * Three React components in your App.js:
 
 ```
-class ImageForm extends Component(
+class ImageForm extends Component{
   render() {
     return(
       <form>
@@ -42,10 +42,10 @@ class ImageForm extends Component(
       </form>
     )
   }
-);
+};
 ```
 ```
-class ImageList extends Component(
+class ImageList extends Component{
   render() {
     return(
       <ul>
@@ -53,10 +53,10 @@ class ImageList extends Component(
       </ul>
     )
   }
-);
+};
 ```
 ```
-class ImageBoard extends Component(
+class ImageBoard extends Component{
   render() {
     return(
       <div>
@@ -65,7 +65,7 @@ class ImageBoard extends Component(
       </div>
     )
   }
-)
+}
 ```
 
 ## I'M A WEB DEVELOPER MODE
