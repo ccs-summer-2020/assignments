@@ -41,13 +41,13 @@ After completing this assignment, you should be able to:
 * Use Bootstrap to achieve default styles
 * Use React for the UI
 * Use Django Rest Framework to build api endpoints
-* Enforce that users are logged in to see their data using Djanog auth and Django Rest Framework
+* Enforce that users are logged in to see their data using Django auth and Django Rest Framework
 
 ## I'm a Full Stack Developer Mode
 
 - [ ] Create an `AdjustRecipe` component that takes a recipe object as a prop. You don't need to start with HTTP requests, you may use static data
 
-![](https://github.com/ccs-student-submissions/8.4-time_to_make_the_donuts/blob/master/images/adjusted.png)
+![](images/adjusted.png)
 
 - [ ] Create a `App`, `RecipesList`, and `RecipeForm` component to add CRUD functionality
 - [ ] Create links to allow the user to switch between the different components - the Bootstrap nav bar is useful for this sort of thing
