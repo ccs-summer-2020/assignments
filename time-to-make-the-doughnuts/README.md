@@ -71,16 +71,16 @@ After completing this assignment, you should be able to:
 
 ### Home
 
-![](https://github.com/ccs-student-submissions/8.4-time_to_make_the_donuts/blob/master/images/1-home.jpg)
+![](images/1-home.jpg)
 
 ### New Recipe 1
 
-![](https://github.com/ccs-student-submissions/8.4-time_to_make_the_donuts/blob/master/images/2.1-new-recipe.jpg)
+![](images/2.1-new-recipe.jpg)
 
 ### New Recipe 2
 
-![](https://github.com/ccs-student-submissions/8.4-time_to_make_the_donuts/blob/master/images/2.2-new-recipe.jpg)
+![](images/2.2-new-recipe.jpg)
 
 ### Recipe Preview
 
-![](https://github.com/ccs-student-submissions/8.4-time_to_make_the_donuts/blob/master/images/3.1-recipe-preview.jpg)
+![](images/3.1-recipe-preview.jpg)
